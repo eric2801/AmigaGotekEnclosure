@@ -1,5 +1,6 @@
 Name,Unit,Expression,Value,Comments,Favorite
 accent_line_bottom_offset,in,"43/64""",43/64,Face accent line distance from bottom,false
+accent_line_depth,in,"1/16""",1/16,,false
 accent_line_height,in,"3/32""",3/32,Face accent line height,false
 accent_line_width,in,"enclosure_width - 1/2""",5 5/8,Face accent line height,false
 enclosure_corner_radius,in,0.18 in,23/128,Corner radius for enclosure,false
@@ -14,8 +15,7 @@ gotek_mount_sleeve_height,in,"63/64""",63/64,Gotek drive mounting sleeve height,
 gotek_mount_sleeve_latch_height,in,"49/64""",49/64,Gotek drive mounting sleeve latch height,false
 gotek_mount_sleeve_latch_width,in,"3/32""",3/32,Gotek drive mounting sleeve latch width,false
 gotek_mount_sleeve_width,in,4.03 in,4 1/32,Gotek drive mounting sleeve width,false
-shell_thickness,in,"3/32""",3/32,Overall enclosure shell thickness,false
-accent_line_depth,in,"1/16""",1/16,,false
-gotek_mounting_sleeve_latch_bottom_gap_height,in,"1/16""",1/16,,false
 gotek_mounting_sleeve_latch_bottom_gap_depth,in,gotek_mount_sleeve_depth * 0.5,3/4,,false
+gotek_mounting_sleeve_latch_bottom_gap_height,in,"1/16""",1/16,,false
 gotek_window_inset,in,"1/32""",1/32,,false
+shell_thickness,in,"3/32""",3/32,Overall enclosure shell thickness,false
