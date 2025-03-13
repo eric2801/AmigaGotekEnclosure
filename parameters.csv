@@ -1,6 +1,9 @@
 Name,Unit,Expression,Value,Comments,Favorite
+accent_line_back_offset,in,shell_thickness,3/32,,false
 accent_line_bottom_offset,in,"43/64""",43/64,Face accent line distance from bottom,false
 accent_line_depth,in,"1/16""",1/16,,false
+accent_line_filler_depth,in,"shell_thickness - 1/16""",1/32,,false
+accent_line_filler_inset,in,0.01 in,1/128,,false
 accent_line_height,in,"3/32""",3/32,Face accent line height,false
 accent_line_width,in,"enclosure_width - 1/2""",5 5/8,Face accent line height,false
 enclosure_corner_radius,in,0.18 in,23/128,Corner radius for enclosure,false
