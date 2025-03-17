@@ -8,6 +8,8 @@ accent_line_height,in,"3/32""",3/32,Face accent line height,false
 accent_line_width,in,"enclosure_width - 1/2""",5 5/8,Face accent line height,false
 enclosure_corner_radius,in,0.18 in,23/128,Corner radius for enclosure,false
 enclosure_depth,in,"8 1/2""",8 1/2,Overall enclosure depth,false
+enclosure_face_clip_depth,in,"3/8""",3/8,,false
+enclosure_face_clip_size,in,1 in,1,,false
 enclosure_height,in,"2 3/4""",2 3/4,Overall enclosure height,false
 enclosure_width,in,"6 1/8""",6 1/8,Overall enclosure width,false
 face_depth,in,"3/4""",3/4,Face component depth,false
