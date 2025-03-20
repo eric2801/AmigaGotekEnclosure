@@ -10,6 +10,11 @@ badge_depth,in,"1/16""",1/16,,false
 badge_logo_depth,in,"1/64""",1/64,,false
 badge_offset,in,"1/4""",1/4,,false
 badge_size,in,"1/2""",1/2,,false
+bottom_front_grill_count,,11,11,,false
+bottom_front_grill_depth,in,"1/2""",1/2,,false
+bottom_front_grill_width,in,"1/16""",1/16,,false
+bottom_label_depth,in,3 in,3,,false
+bottom_label_width,in,2 in,2,,false
 enclosure_corner_radius,in,0.18 in,23/128,Corner radius for enclosure,false
 enclosure_depth,in,"8 1/2"" - 1 in",7 1/2,Overall enclosure depth,false
 enclosure_face_clip_depth,in,"3/8""",3/8,,false
@@ -20,6 +25,10 @@ face_depth,in,"3/4""",3/4,Face component depth,false
 face_extrude_angle,deg,1 deg,1.0,Face component extrude angle,false
 face_seam_depth,in,"1/16""",1/16,The depth of the seam between the face and the enclosure body,false
 face_seam_inset,in,"1/16""",1/16,The inset of the seam between the face and the enclsoure body,false
+foot_pad_front_offset,in,"1/4""",1/4,,false
+foot_pad_offset,in,"3/4""",3/4,,false
+foot_pad_recess,in,"1/32""",1/32,,false
+foot_pad_size,in,"3/4""",3/4,,false
 gotek_mount_sleeve_depth,in,"1 1/2""",1 1/2,Gotek drive mounting sleeve depth,false
 gotek_mount_sleeve_face_depth,in,"7/64""",7/64,Gotek drive face depth used to lock into mounting sleeve,false
 gotek_mount_sleeve_height,in,"63/64""",63/64,Gotek drive mounting sleeve height,false
@@ -34,3 +43,7 @@ rear_screw_insert_depth,in,"3/8""",3/8,,false
 rear_screw_insert_diameter,in,( 6.8 / 32 ) * 1 in,27/128,,false
 rear_screw_support_size,in,"1/2""",1/2,,false
 shell_thickness,in,"3/32""",3/32,Overall enclosure shell thickness,false
+top_rear_grill_count,,14,14,,false
+top_rear_grill_depth,in,"1/4""",1/4,,false
+top_rear_grill_inset,in,1.5 in,1 1/2,,false
+top_rear_grill_width,in,"3/32""",3/32,,false
