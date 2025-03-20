@@ -6,8 +6,12 @@ accent_line_filler_depth,in,"shell_thickness - 1/16""",1/32,,false
 accent_line_filler_inset,in,0.002 in,0,,false
 accent_line_height,in,"3/32""",3/32,Face accent line height,false
 accent_line_width,in,"enclosure_width - 1/2""",5 5/8,Face accent line height,false
+badge_depth,in,"1/16""",1/16,,false
+badge_logo_depth,in,"1/64""",1/64,,false
+badge_offset,in,"1/4""",1/4,,false
+badge_size,in,"1/2""",1/2,,false
 enclosure_corner_radius,in,0.18 in,23/128,Corner radius for enclosure,false
-enclosure_depth,in,"8 1/2""",8 1/2,Overall enclosure depth,false
+enclosure_depth,in,"8 1/2"" - 1 in",7 1/2,Overall enclosure depth,false
 enclosure_face_clip_depth,in,"3/8""",3/8,,false
 enclosure_face_clip_size,in,1 in,1,,false
 enclosure_height,in,"2 3/4""",2 3/4,Overall enclosure height,false
@@ -25,4 +29,8 @@ gotek_mount_sleeve_width,in,4.02 in,4 3/128,Gotek drive mounting sleeve width,fa
 gotek_mounting_sleeve_latch_bottom_gap_depth,in,gotek_mount_sleeve_depth * 0.5,3/4,,false
 gotek_mounting_sleeve_latch_bottom_gap_height,in,"1/32""",1/32,,false
 gotek_window_inset,in,"1/32""",1/32,,false
+rear_screw_hole_diameter,in,rear_screw_insert_diameter * 0.75,5/32,,false
+rear_screw_insert_depth,in,"3/8""",3/8,,false
+rear_screw_insert_diameter,in,( 6.8 / 32 ) * 1 in,27/128,,false
+rear_screw_support_size,in,"1/2""",1/2,,false
 shell_thickness,in,"3/32""",3/32,Overall enclosure shell thickness,false
