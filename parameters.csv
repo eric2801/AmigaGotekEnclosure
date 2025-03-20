@@ -15,6 +15,7 @@ bottom_front_grill_depth,in,"1/2""",1/2,,false
 bottom_front_grill_width,in,"1/16""",1/16,,false
 bottom_label_depth,in,3 in,3,,false
 bottom_label_width,in,2 in,2,,false
+cable_diameter,in,"3/8""",3/8,,false
 enclosure_corner_radius,in,0.18 in,23/128,Corner radius for enclosure,false
 enclosure_depth,in,"8 1/2"" - 1 in",7 1/2,Overall enclosure depth,false
 enclosure_face_clip_depth,in,"3/8""",3/8,,false
@@ -38,7 +39,8 @@ gotek_mount_sleeve_width,in,4.02 in,4 3/128,Gotek drive mounting sleeve width,fa
 gotek_mounting_sleeve_latch_bottom_gap_depth,in,gotek_mount_sleeve_depth * 0.5,3/4,,false
 gotek_mounting_sleeve_latch_bottom_gap_height,in,"1/32""",1/32,,false
 gotek_window_inset,in,"1/32""",1/32,,false
-rear_screw_hole_diameter,in,rear_screw_insert_diameter * 0.75,5/32,,false
+rear_panel_cable_port_size,in,"1/2""",1/2,,false
+rear_screw_hole_diameter,in,"9/64""",9/64,,false
 rear_screw_insert_depth,in,"3/8""",3/8,,false
 rear_screw_insert_diameter,in,( 6.8 / 32 ) * 1 in,27/128,,false
 rear_screw_support_size,in,"1/2""",1/2,,false
